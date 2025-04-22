@@ -1,2 +1,1 @@
-# jenkins-freestyle-repo
-# Cat README.md
+Hello from Jenkins + GitHub repository. 
